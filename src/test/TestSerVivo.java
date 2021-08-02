@@ -19,7 +19,7 @@ public class TestSerVivo {
 
             System.out.println("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
             System.out.println("----------------- MENU -----------------");
-            System.out.println("SI QUIERES SABER DE QUE SE ALIEMNTA ");
+            System.out.println("SI QUIERES SABER DE QUE SE ALIMENTA ");
             System.out.println("1.-UN SER VIVO\n2.-UNA PLANTA\n3.-UN ANIMAL \n4.-UN ANIMAL CARNIVORO\n5.-UN ANIMAL HERBIVORO");
             System.out.println("\nSI QUIERES SALIR DEL MENU\n6.-SALIR");
             opc = entrada.nextInt();
